@@ -20,7 +20,7 @@ import os
 # ---------------------------------------------------------------------------
 # External service configuration
 # ---------------------------------------------------------------------------
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyCVkJ-VH9xkKaywf7vyMW7Qjw87m1VfqkQ")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "your_api_key_here")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
 
 
