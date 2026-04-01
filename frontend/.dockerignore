@@ -1,0 +1,9 @@
+node_modules
+.next
+dist
+.vite
+.eslintcache
+*.log
+.DS_Store
+Dockerfile
+nginx.conf
