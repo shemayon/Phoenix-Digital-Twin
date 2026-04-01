@@ -118,5 +118,4 @@ sequenceDiagram
 
 ---
 
-## 📄 License
-Commercial Enterprise License (Internal Use Only)
+
